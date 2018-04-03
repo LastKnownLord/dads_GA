@@ -1,4 +1,5 @@
 <html>
+<!-- GITHUB REPO [ V1-20180403 ] => LastKnownLord/dads_GA || https://github.com/LastKnownLord/dads_GA -->
 	<head>
 		<title>Gun Show Events</title>
 		<meta name = "viewport" content ="width-device-width, initial-scale=1.0">
@@ -17,7 +18,7 @@
 	</head>
 	<body>
 		<div style="margin-left: 10px;">
-			<h1>Geocode Address for GunApp</h1>
+			<h1>Geocode Address for GunApp [ V1-20180403 ]</h1>
 			<p>Event Name: <input type="textbox" name="name" id="name" /></p>
 			<p>Start Month: <input type="textbox" name="month" id="month" /></p>
 			<p>Start Date: <input type="textbox" name="startDate" id="startDate" /></p>
